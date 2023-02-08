@@ -1,0 +1,10 @@
+Data Title: Non-Fatal Emergency Department Visits Involving Any Opioid Overdose
+Link: https://gis.in.gov/apps/isdh/meta/stats_layers.htm
+Description: Indiana residents discharged from a non-federal, acute care facility having a diagnosis of acute drug poisoning involving any opioid.
+ 		   Data consists of patients who received emergency services without being admitted to the hospital. Data reported by county of residence. 
+		   ICD-10-CM Diagnostic Code: T40.0X(1,2,4)A, T40.1X(1,2,4)A, T40.2X(1,2,4)A, T40.3X(1,2,4)A, T40.4X(1,2,4)A, T40.60(1,2,4)A, T40.69(1,2,4)A. 
+		   More Information on https://www.in.gov/health/overdose-prevention/. 
+		   Statistical unit is Incidence Rate per 100,000. Data are suppressed when counts are <5. The United States transitioned from ICD-9-CM to 
+		   ICD-10-CM diagnosis codes on October 1, 2015. Please consider the change in coding systems when comparing results from ICD-10-CM coded 
+		   data to ICD-9-CM coded data.
+Source: Indiana Department of Health, Division of Trauma and Injury Prevention, Indiana Hospital Association 
